@@ -6,11 +6,12 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './views/header/header.component';
 import {MatToolbarModule} from '@angular/material/toolbar';
+import { HomeComponent } from './views/home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponentgit c
+    HeaderComponentgit c, HomeComponent
   ],
   imports: [
     BrowserModule,
