@@ -11,7 +11,8 @@ import { HomeComponent } from './views/home/home.component';
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponentgit c, HomeComponent
+    HeaderComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

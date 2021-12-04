@@ -2,7 +2,7 @@ banner-home{
   height:340pc;
   padding: 60px;
   margin:0pc auto;
-  back-ground-color: #005caa;
+  background-color: #005caa;
 }
 banner-home img{
   height: 340px;
@@ -13,7 +13,7 @@ banner-home .texto-home {
   margin-top: 28px;
   width: 50%;
   font-size: 22px;
-float: right;
+  float: right;
 
 }
 banner-home .texto-home h1{
